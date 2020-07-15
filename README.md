@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Anghami](https://www.anghami.com)
+- 🔭 I’m currently working in [Anghami](https://www.anghami.com)
 - 🌱 I’m currently learning Advanced React Topics, C++, and Games Development
 - 🤔 I’m looking for help with JavaScript, and C++ projects
 - 💬 Ask me about: How I learn!

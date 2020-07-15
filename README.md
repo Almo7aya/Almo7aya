@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on (https://www.anghami.com)[Anghami]
+- 🔭 I’m currently working on [Anghami](https://www.anghami.com)
 - 🌱 I’m currently learning Advanced React Topics, C++, and Games Development
 - 🤔 I’m looking for help with JavaScript, and C++ projects
 - 💬 Ask me about: How I learn!
-- 📫 How to reach me: (mailto:alialmohaya@gmail.com)[Email]
+- 📫 How to reach me: [Email](mailto:alialmohaya@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like light theme 😂

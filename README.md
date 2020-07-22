@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Almohaya (almo7aya)</h1>
+<h1 align="center">Hi 👋, I'm Ali Almohaya (Almo7aya)</h1>
 <h2 align="center">Web Engineer @ <a href="https://anghami.com" target="_blank">Anghami</a></h2>
 <p align="center">
 <a href=https://twitter.com/almo7aya_ target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="almo7aya" height="20" width="20" /></a>

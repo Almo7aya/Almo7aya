@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Almohaya (almo7aya)</h1> 🇾🇪
+<h1 align="center">Hi 👋, I'm Ali Almohaya <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/51/flag-for-yemen_1f1fe-1f1ea.png" alt="cplusplus" width="23" height="23"/> (almo7aya)</h1> 
+
 <h2 align="center">Web Engineer @ <a href="https://anghami.com" target="_blank">Anghami</a> <img src="https://anghamiwebcdn.akamaized.net/web/assets/icons/all/ArabicLogo.svg" alt="Anghami" width="16" height="16"/></h2>
 <p align="center">
 <a href=https://twitter.com/almo7aya_ target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="almo7aya" height="20" width="20" /></a>

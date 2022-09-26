@@ -8,4 +8,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=almo7aya" alt="almo7aya" /> <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="almo7aya" /> <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" alt="open source"/>  <br /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </p>
 
-> I'm open contribute in any kind of open-source projects just email me [alialmohaya@gmail.com](mailto:alialmohaya@gmail.com) 🙋🏻‍♂️
+> I'm open to contribute in any kind of open-source projects just email me [alialmohaya@gmail.com](mailto:alialmohaya@gmail.com) 🙋🏻‍♂️

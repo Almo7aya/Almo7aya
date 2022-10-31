@@ -6,3 +6,5 @@
 
 
 <h2 align="center">About me, blog, and projects -> <a href="https://almo7aya.dev">almo7aya.dev</a></h2>
+
+<img src="https://hit.yhype.me/github/profile?user_id=17254073" />

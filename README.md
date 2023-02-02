@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="./Hey.gif" width="30px">, I'm Ali Almohaya <img src="https://1.bp.blogspot.com/-lEjH9X_Xjtw/W2htPIr-uMI/AAAAAAAAqyI/gl2OoecZsCsVXw8XTlYlP6vgxSr_RJrDgCLcBGAs/s1600/Flag_of_Yemen.gif" alt="cplusplus" width="33" height="23"/> (almo7aya)</h1> 
 
-<h2 align="center">Senior Web Engineer @ <a href="https://anghami.com" target="_blank">Anghami</a> <img src="https://anghamiwebcdn.akamaized.net/web/assets/img/logos/favicons/mstile-70x70.png" alt="Anghami" width="16" height="16"/></h2>
+<h2 align="center">Senior Web Engineer @ <a href="https://anghami.com" target="_blank">Anghami</a> </h2>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=almo7aya&color=9f7b3d&style=flat-square&label=visits" alt="almo7aya" />  <img src="https://img.shields.io/github/stars/almo7aya?color=%239f7b3d&label=total%20stars&style=flat-square" alt="open source"/>  <br />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="javascript" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="javascript" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </p>
 

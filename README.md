@@ -2,9 +2,7 @@
 
 <h2 align="center">Senior Web Engineer @ <a href="https://anghami.com" target="_blank">Anghami</a> </h2>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=almo7aya&color=9f7b3d&style=flat-square&label=visits" alt="almo7aya" />  <img src="https://img.shields.io/github/stars/almo7aya?color=%239f7b3d&label=total%20stars&style=flat-square" alt="open source"/>  <br />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="javascript" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="javascript" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </p>
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=almo7aya&color=9f7b3d&style=flat-square&label=visits" alt="almo7aya" />  <img src="https://img.shields.io/github/stars/almo7aya?color=%239f7b3d&label=total%20stars&style=flat-square" alt="open source"/> 
 <h2 align="center">About me, blog, and stuff ⧉ <a href="https://almo7aya.dev">almo7aya.dev</a></h2>
 
 ![](https://hit.yhype.me/github/profile?user_id=17254073)

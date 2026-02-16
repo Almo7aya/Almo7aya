@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="./Hey.gif" width="30px">, I'm Ali Almohaya <img src="https://1.bp.blogspot.com/-lEjH9X_Xjtw/W2htPIr-uMI/AAAAAAAAqyI/gl2OoecZsCsVXw8XTlYlP6vgxSr_RJrDgCLcBGAs/s1600/Flag_of_Yemen.gif" alt="cplusplus" width="33" height="23"/> (almo7aya)</h1> 
+<h1 align="center">Hi <img src="./Hey.gif" width="30px">, I'm Ali Almohaya (almo7aya)</h1> 
 
 <h2 align="center">Staff Web Engineer @ <a href="https://anghami.com" target="_blank">Anghami</a> & <a href="https://osnplus.com" target="_blank">OSN+</a></h2>
  
